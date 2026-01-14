@@ -14,12 +14,12 @@
         "prepare": "simple-git-hooks"
     },
     "license": "MIT",
-    "homepage": "https://github.com/antfu/pkg-placeholder#readme",
+    "homepage": "https://github.com/lonewolfyx/pkg-placeholder#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/antfu/pkg-placeholder.git"
+        "url": "git+https://github.com/lonewolfyx/pkg-placeholder.git"
     },
-    "bugs": "https://github.com/antfu/pkg-placeholder/issues",
+    "bugs": "https://github.com/lonewolfyx/pkg-placeholder/issues",
     "keywords": [],
     "exports": {
         ".": "./dist/index.mjs",
