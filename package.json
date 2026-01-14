@@ -9,7 +9,9 @@
         "build": "tsdown",
         "release": "npm publish",
         "lint": "eslint",
-        "lint:fix": "eslint --fix"
+        "lint:fix": "eslint --fix",
+        "prepublishOnly": "pnpm build",
+        "prepare": "simple-git-hooks"
     },
     "license": "MIT",
     "homepage": "https://github.com/antfu/pkg-placeholder#readme",
